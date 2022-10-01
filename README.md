@@ -4,4 +4,4 @@
 
 ### If you are interested to see it please visit the link below.
 
-<a href="https://samuelharold568.github.io/Bouncing-ball/">Notes List React Apps</a>
+<a href="https://samuelharold568.github.io/NOTES-LIST_REACT-APP/">Notes List React Apps</a>
